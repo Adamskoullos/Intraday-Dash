@@ -28,12 +28,13 @@ body{
 }
 
 .nav{
-    background-color: #0d0f14;
+    background-color: rgba(36, 47, 84, 0.12);
     height: 30px;
     grid-column: 1/7;
     grid-row: 1/2;
     align-content: center;
     justify-content: center;
+    padding-top: 5px;
 }
 
 div{
