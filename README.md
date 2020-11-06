@@ -25,6 +25,6 @@ This is my first 'free-hand' project during my hmtl and css training, therefore 
 
 # Update:
 
-Intraday-Dash as a charting tool has leant itself well to the css Grid system. During the initial crude mock up of the page it has become clear that my initial goals are not only achievable but that this project should be far more ambitous.  Because of this I am continuing this project in a new repository with a deeper foundation that will be utilising Bootstrap and include multiple trading dashboards and more features. As my first mini project during my training I will leave this repo open to show my development. Link to the main project: [TraderDash](#)
+Intraday-Dash as a charting tool has leant itself well to the css Grid system. During the initial crude mock up of the page it has become clear that my initial goals are not only achievable but that this project should be far more ambitous.  Because of this I am continuing this project in a new repository with a deeper foundation that will be utilising Bootstrap and include multiple trading dashboards and more features. As my first mini project during my training I will leave this repo open to show my development. Link to the main project: [TraderDash](https://github.com/Adamskoullos/TraderDash)
 
 
